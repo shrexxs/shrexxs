@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Mishra</h1>
-<h3 align="center">A passionate Web Designer and Graphic designer, who thinks contributing new ideas or approaches can lead to breakthroughs and improvements in the quality of our work.</h3>
+<h3 align="center">A passionate Web Designer, Developer and Graphic designer, who thinks contributing new ideas or approaches can lead to breakthroughs and improvements in the quality of our work.</h3>
 
 - 🌱 I’m currently learning **react native**
 
